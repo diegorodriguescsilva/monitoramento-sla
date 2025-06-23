@@ -1,4 +1,4 @@
-# Esté arquivo é responsável por coletar métricas da aplicação Python
+# Este arquivo é responsável por coletar métricas da aplicação Python
 
 - Prometheus irá coletar as métricas a cada 5 segundos
 
