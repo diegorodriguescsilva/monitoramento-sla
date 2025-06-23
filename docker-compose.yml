@@ -1,5 +1,5 @@
 services:
-  app:
+  app:                                                
     build: ./app
     container_name: sla_app
     ports:
