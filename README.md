@@ -22,7 +22,7 @@ monitoramento-sla/
 
 ### Pré-requisitos:
 
-- Docker e Docker Compose instalados.
+- Docker
 
 ### O que você vai ter que fazer:
 
